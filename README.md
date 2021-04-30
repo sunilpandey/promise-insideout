@@ -1,5 +1,5 @@
 # Inside out of promise
-This repository contains code possible implementation of polyfill of promise. It gives you an opportunity to view possible logic and code would be running behind the scene of Promise functionality of javascript.
+This repository contains code for possible implementation of polyfill of promise. It gives you an opportunity to view possible logic and code that would be running behind the scene of `Promise` functionality of javascript.
 It is also a favorite question of top level companies interviewers
 
 ## Supported promise features with this polyfill
